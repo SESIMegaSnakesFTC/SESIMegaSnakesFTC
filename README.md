@@ -11,6 +11,8 @@
 
 A equipe **SESI Mega Snakes** representa o SESI na **FIRST Tech Challenge (FTC)** com o objetivo de projetar, construir e programar robôs competitivos, enquanto desenvolvemos habilidades de liderança, engenharia e impacto social.
 
+Fique por dentro do desafio: https://www.youtube.com/watch?v=LCqWA6gSCXA
+
 ---
 
 ## 💼 Quem Somos
