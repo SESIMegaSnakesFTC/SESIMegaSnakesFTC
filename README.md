@@ -36,5 +36,5 @@ Somos uma equipe multidisciplinar de alunos do ensino médio apaixonados por tec
 
 ## Deseja nos conhecer melhor ou talvez firmar uma parceria? Entre em contato conosco e acompanhe nosso trabaho em nossas redes sociais!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/megasnakes_ftc)
-[![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/sesi-megasnakes-ftc/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1586D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sesi-megasnakes-ftc/)
 <a href = "mailto:megasnakesftc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
